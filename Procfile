@@ -1,1 +1,1 @@
-worker: python botdollar.py
+worker: python lickibakchod.py
